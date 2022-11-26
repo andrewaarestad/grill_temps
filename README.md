@@ -7,3 +7,5 @@ Usees a simple heat transfer model to predict target temp arrival based on measu
 ```math
 \frac{dT}{dt} = k(T_{meat} - T_{grill})
 ```
+
+![Temp Projection Chart][projection.png]
